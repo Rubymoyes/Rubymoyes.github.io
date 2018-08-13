@@ -1,3 +1,28 @@
+* {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  box-sizing: border-box;
+  border: none;
+  letter-spacing: 0.01em;
+}
+p {
+  margin: 1;
+  line-height: 1;
+}
+
+h1  {
+  background-color: grey;
+  font-color: white;
+  box-sizing: border-box;
+  display: flex;
+  max-width: 180px;
+}
+
 body {
-    background-color: rgb(207, 216, 253);
-  }
+  background-color: whitesmoke;
+  
+}
+
+h2  {
+  box-sizing: border-box;
+  display: flex;
+}
