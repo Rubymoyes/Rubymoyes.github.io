@@ -5,24 +5,28 @@
   letter-spacing: 0.01em;
   flex-wrap: wrap;
   flex-grow: 1;
+  width: 300px;
+  border: 25px
+  padding;
+  margin: 25px;
+
+}
 
 p {
   margin: 1;
   line-height: 1;
+
 }
 
 h1  {
   box-sizing: border-box;
   display: flex;
   max-width: 180px;
-}
 
-body {
-  background-color: whitesmoke;
-  
 }
 
 h2  {
   box-sizing: border-box;
   display: flex;
+
 }
